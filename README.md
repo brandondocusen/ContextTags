@@ -1,6 +1,6 @@
 # Context Tags
 
-An efficient technique for managing code context when working with Large Language Models. Context Tags helps developers retrieve relevant code segments through tag-based searches, making it easier to provide focused, efficient context during LLM interactions.
+An efficient technique for managing code context when working with Large Language Models. Context Tags retrieve only the relevant code segments through tag-based searches, making it easier to provide focused, efficient context during LLM interactions.
 
 ## Overview
 
