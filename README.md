@@ -4,7 +4,7 @@ An efficient technique for managing code context when working with Large Languag
 
 ## Overview
 
-Context Tags works with a JSON-based knowledge graph of your codebase. Using an interactive CLI, you can search for code segments by tags, retrieve related components, and easily copy the results into LLM chat windows. Context Tags supports multiple approaches to code discovery - from traditional tag matching to vector databases for semantic search and graph databases for relationship exploration.
+Search for code segments by categorical tags or by granular code element names, retrieve related components, and easily copy the results into LLM chat windows. Context Tags supports multiple approaches to code discovery - from traditional tag matching to vector databases for semantic search and graph databases for relationship exploration.
 
 ## Features
 
