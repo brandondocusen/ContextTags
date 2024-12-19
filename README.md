@@ -15,26 +15,6 @@ Search for code segments by categorical tags or by granular code element names, 
 - Knowledge graph integration
 - Related code discovery
 
-## Quick Start
-
-1. Clone the repository:
-```bash
-git clone https://github.com/brandondocusen/contexttags.git
-cd contexttags
-```
-
-2. Install requirements:
-```bash
-pip install -r requirements.txt
-```
-
-3. Place your knowledge graph file in the project directory as `knowledge-graph-cumulative.json`. A sample knowledge graph is provided.
-
-4. Run the interactive CLI:
-```bash
-python contexttags.py
-```
-
 5. Search using tags:
 - Enter tags separated by commas (e.g., "String, Logger")
 - Type 'tags' to see all available tags
